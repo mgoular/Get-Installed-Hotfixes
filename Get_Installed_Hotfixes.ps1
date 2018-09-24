@@ -1,7 +1,16 @@
-﻿# Get hotfixes from a list of computers via powershell 
-# Script version 1.0 
-# Date : 04/01/2016
-# Michael Goulart
+################################################################################
+################################################################################
+## Script description                                                         ##
+##                                                                            ##
+## Name      : Get_Installed_Hotfixes.ps1                                     ##
+## Version   : 0.1                                                            ##
+## Date      :04/01/2016                                                      ##
+## Language  : PowerShell cmd-lets                                            ##
+## License   : MIT                                                            ##
+## Owner     : M.G                                                            ##
+## Authors   : M.G                                                            ##
+################################################################################
+################################################################################
 
 # Get Hotfixes installed into a list of computers.    
 
